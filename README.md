@@ -51,11 +51,6 @@ This analysis was done using **SAS** and includes the following steps:
    - Mean Squared Error (MSE)
    - R-squared values
    - Cross-validation (if applicable)
-
-6. **Interpretation of Results**
-   - Identification of significant predictors
-   - Discussion on practical implications
-
 ---
 
 ## 📈 Key Findings
