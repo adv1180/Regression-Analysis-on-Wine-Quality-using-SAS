@@ -61,9 +61,4 @@ This analysis was done using **SAS** and includes the following steps:
 ## 📈 Key Findings
 
 - `Alcohol`, `volatile acidity`, and `sulphates` showed strong relationships with wine quality.
-- The final model explains approximately **X%** of the variance in wine quality (based on R²).
 - Diagnostics indicate the model assumptions were reasonably met.
-
----
-
-## 📂 Repository Structure
